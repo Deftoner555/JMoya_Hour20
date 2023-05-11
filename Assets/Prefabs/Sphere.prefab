@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 2532894680406982796}
   - component: {fileID: 918885110805407012}
   - component: {fileID: 6661209532514734884}
+  - component: {fileID: 9119320052203167071}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -4886,3 +4887,15 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
+--- !u!114 &9119320052203167071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5440728928064437247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b916ea2dfebca14bb26cbfc3e3ec717, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
