@@ -1,0 +1,29 @@
+1.) Is the game to easy or hard? Give 3 reasons why it is easy or hard.
+
+	a. Too hard: Phasing makes you miss the power ups
+	b. Too easy: The learning curve is too easy, after playing for a short time you get used to the speed and it doesn't require a lot of effort
+	c. Too easy: Only has one obstacle that has to be avoided
+
+2.) What 3 changes would you do to make it easier or harder?
+
+	a. Change the code so that when the player is phased out they can still pick up power ups
+	b. Make the obstacles, powerups, and the player move faster over time so that the longer you play, the faster everything gets
+	c. Add an obstacle that is similar looking to the powerup but does not have particle effects, hitting this will also slow the player's speed
+
+3.) List three things that would give it a "wow" factor.
+
+	a. Changing the materials that are applied to the environment
+	b. Adding sound effects and music
+	c. Making it more difficult by adding more obstacle types so that it is more engaging to play
+
+4.) What parts of the game are fun? 3 items
+
+	a. Narrowly dodging obstacles and barely making it on time to grab a power up
+	b. Looking at the visual effects on the powerups and obstacles
+	c. Using the phase ability to dodge obstacles
+
+5.) What parts of the game are tedious? 3 items
+
+	a. The movement is a little too slippery, would benefit from having tighter controls
+	b. It's too easy to play and makes it boring after getting used to the speed
+	c. The phase ability makes you miss power ups. Makes you not want to use it
